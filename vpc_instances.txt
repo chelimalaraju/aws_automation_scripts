@@ -1,0 +1,7 @@
+vpc_id                         instance_id                    tag_Key                        tag_Value
+
+vpc-82d36ee6                   i-0f9ade22907a246ae            asdasdaas                      asdasd
+
+vpc-82d36ee6                   i-028272749bfafc3c4            wfdrefr                        ereer
+                                                              xxxxxrefrfrferferf             eferfr
+                                                              Application                    ffrfr

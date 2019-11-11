@@ -1,0 +1,5 @@
+init_config: ''
+instances:
+  rabbitmq_api_url: http://localhost:15672/api/
+  rabbitmq_pass: dfdsdfdsf
+  rabbitmq_user: raju
